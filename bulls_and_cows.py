@@ -22,8 +22,6 @@ def nahodne_cislo_hry():
     return nahodne_cislo
 
 cislo_hry = nahodne_cislo_hry()
-print(cislo_hry)
-
 
 def overeni_cisla(user_cislo):
     """Funkce ověřuje správně zadané číslo uživatele."""
